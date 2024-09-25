@@ -14,13 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/BallShooter.2 Logan.P.unity
     guid: 3314d53fa22aeb74f8200c6239dae48c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/BallShooter.3 Logan.P.unity
     guid: 0710650d55f72bb45ac4528ee9471680
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/BallShooter.4 Logan.P.unity
     guid: 0afaa08395387564cbe76675b2ebdab4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/BallShooter.5 Logan.P.unity
     guid: e310cca876ca93241a082881ec988dec
   m_configObjects: {}
